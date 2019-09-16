@@ -1,0 +1,11 @@
+/.idea
+/thingslog-servers.iml
+.idea/
+water-meter-collector.iml
+**/target/
+nohup.out
+*.iml
+.project
+.classpath
+.settings/
+.m2
