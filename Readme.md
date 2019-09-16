@@ -1,6 +1,6 @@
 * Configure ThingsLog platform
 ```
-curl -X PUT "http://dev.itransformers.net/v2/integration/http" \
+curl -X PUT "https://iot.thingslog.com/v2/integration/http" \
 -H "accept: */*" \
 -H "Content-Type: application/json" \
 -H "Authorization: Bearer ..." \
