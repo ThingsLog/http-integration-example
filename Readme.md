@@ -52,6 +52,7 @@ Each entry has tags that corresponds to different data received from ThingsLog d
     * ber - The bit error ratio.
     * battery - the voltage of the battery in mV.
     * sensor_index - the index of the sensor from which the data are collected.
+    * device_number - the unique number of ThingsLog data logger. This will be the same number for the entire json.
 
 * The example data structure Measurement provided in the ThingsLogHttpIntegrationController present the generic structure of the json above:
 
