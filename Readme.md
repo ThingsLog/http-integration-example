@@ -46,3 +46,25 @@ java -jar -Dserver.port=8000 thingslog-http-integration-boot.jar
 ]
 ```
 
+* The json is array of many entries. 
+Each entry has tags that corresponds to different data received from ThingsLog data loggers.
+** rssi - The received signal strength indicator.
+** ber - The bit error ratio.
+** battery - the voltage of the battery in mV.
+** sensor_index - the index of the sensor from which the data are collected.
+
+* The example data structure Measurement provided in the ThingsLogHttpIntegrationController present the generic structure of the json above:
+
+```
+public class Measurement {
+    private String name;
+    private Double value;
+    private Long timestamp;
+    private Map<String, String> tags;
+...
+}
+```
+
+
+
+
