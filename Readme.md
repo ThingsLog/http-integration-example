@@ -1,4 +1,4 @@
-ThingsLog is a platform for TMMAAS remote metering and monitoring as a service.
+[ThingsLog](https://thingslog.com)is a platform for [RMMAAS](https://thingslog.com/thingslog-rmmaas) - Remote Metering and Monitoring as a Service.
 This guide covers the setup of ThingsLog HTTP/HTTPS push integration. 
 
 
