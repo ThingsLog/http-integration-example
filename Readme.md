@@ -1,3 +1,7 @@
+ThingsLog is a platform for TMMAAS remote metering and monitoring as a service.
+This guide covers the setup of ThingsLog HTTP/HTTPS push integration. 
+
+
 * Configure ThingsLog platform
 ```
 curl -X PUT "https://iot.thingslog.com/v2/integration/http" \
