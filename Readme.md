@@ -1,4 +1,4 @@
-[ThingsLog](https://thingslog.com)is a platform for [RMMAAS](https://thingslog.com/thingslog-rmmaas) - Remote Metering and Monitoring as a Service.
+[ThingsLog] (https://thingslog.com)is a platform for [RMMAAS](https://thingslog.com/thingslog-rmmaas) - Remote Metering and Monitoring as a Service.
 This guide covers the setup of ThingsLog HTTP/HTTPS push integration. 
 
 
